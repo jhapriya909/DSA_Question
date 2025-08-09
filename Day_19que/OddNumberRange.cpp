@@ -11,6 +11,6 @@ int main(){
 
         }
     }
-    cout<<"sum of even number ="<<sum <<endl;
+    cout<<"sum of odd number ="<<sum <<endl;
 
 }
