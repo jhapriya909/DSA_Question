@@ -14,7 +14,7 @@ Explanation: The missing number in the sequence from 1 to 5 is 3.*/
 using namespace std;
 
 int main() {
-    vector<int> seq = {1, 2, 4, 5};
+    vector<int> seq = {1,2,4,5};
     int n = 5; 
 
     vector<int> missing;
